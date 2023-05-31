@@ -1,0 +1,16 @@
+.model3-text{
+  font-size: 40px;
+  font-family: Montserrat;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.touchless-delivery{
+  font-size: 15px;
+  margin-top: 0;
+}
+
+.touchless-link{
+  cursor:pointer;
+  text-decoration: underline;
+}
